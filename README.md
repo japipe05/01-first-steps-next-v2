@@ -1,3 +1,33 @@
+# validar versiones
+```
+node -v
+    v20.17.0
+npm -v
+    10.8.3
+npx next --version
+    Next.js v14.2.8
+```
+# Crear un proyecto
+```
+npx create-next-app@latest
+```
+# Corre el proyecto
+```
+npm run dev
+```
+
+# Extensiones
+- metadata
+mr
+
+- layout
+lrc
+
+- funcional components 
+rafc
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
